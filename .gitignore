@@ -1,0 +1,36 @@
+# Archivos de compilación y cache
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.cache
+
+# Archivos temporales de Windows
+Thumbs.db
+Desktop.ini
+
+# Archivos específicos de Visual Studio
+*.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Archivos de backup
+*.bak
+*.backup
+*.old
+
+# Archivos de NuGet
+packages/
+*.nupkg
+
+# Archivos ejecutables (serán generados)
+*.exe
+*.dll
+*.pdb
+
+# Archivos temporales del sistema
+*~
+.DS_Store
